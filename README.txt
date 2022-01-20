@@ -1,1 +1,1 @@
-All the Odin Projects will be here.
+All Odin Projects are here.
