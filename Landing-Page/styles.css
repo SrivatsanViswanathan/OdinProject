@@ -251,7 +251,7 @@ h2 {
     flex-direction: column;
   }
 
-  .header {
+  .header .left-side {
     margin-left: 0%;
     margin-right: 0%;
   }
