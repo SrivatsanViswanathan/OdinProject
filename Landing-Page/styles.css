@@ -250,6 +250,11 @@ h2 {
   .container-four {
     flex-direction: column;
   }
+
+  .header {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
   .container-one .box-one,
   .container-one .box-two {
     margin-left: auto;
@@ -272,8 +277,12 @@ h2 {
     margin-right: auto;
     height: auto;
   }
+  .container-four .left-side h2 {
+    margin-bottom: 1%;
+  }
   .container-four .right-side {
     margin-right: auto;
     margin-left: auto;
+    margin-top: 1%;
   }
 }
