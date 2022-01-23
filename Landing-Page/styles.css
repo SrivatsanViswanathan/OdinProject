@@ -271,11 +271,17 @@ h2 {
   }
 
   .container-three .quote {
+    margin-left: 10%;
+    margin-right: 10%;
     text-align: left;
   }
 
   .container-three .author {
     margin-right: 10%;
+  }
+
+  .container-four .box-one {
+    padding-bottom: 1.5%;
   }
 
   .container-four .box-one {
