@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  background-color: sandybrown;
+  border: 2px solid red;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#header a {
+  text-decoration: none;
+  color: blue;
+}
+
+#header li {
+  display: inline-flex;
+  background-color: white;
+  padding: 10px;
+  text-align: center;
+  margin: 20px;
+}
+
+#header ul {
+  padding: 0;
+  margin: 0;
+  align-items: center;
+}
+
+.center {
+  font-size: 24px;
+}
