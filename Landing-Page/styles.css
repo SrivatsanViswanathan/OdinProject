@@ -253,8 +253,8 @@ h2 {
 
   .header .left-side {
     margin-left: 0%;
-    margin-right: 0%;
   }
+
   .container-one .box-one,
   .container-one .box-two {
     margin-left: auto;
@@ -278,11 +278,11 @@ h2 {
     height: auto;
   }
   .container-four .left-side h2 {
-    margin-bottom: 1%;
+    margin-bottom: 2%;
   }
   .container-four .right-side {
     margin-right: auto;
     margin-left: auto;
-    margin-top: 1%;
+    margin-top: 2%;
   }
 }
