@@ -159,14 +159,11 @@ h2 {
 }
 
 .container-three .quote {
-  margin-left: 20%;
-  margin-right: 20%;
-}
-
-.container-three .quote {
   font-size: 20px;
   color: #1f2937;
   font-style: italic;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 .container-three .author {
@@ -269,6 +266,10 @@ h2 {
 
   .container-three .quote {
     text-align: left;
+  }
+
+  .container-three .author {
+    margin-right: 10%;
   }
 
   .container-four .box-one {
