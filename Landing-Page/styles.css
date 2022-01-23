@@ -249,7 +249,13 @@ h2 {
   }
 
   .header .left-side {
-    margin-left: 0%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .header .right-side {
+    margin-right: auto;
+    margin-left: auto;
   }
 
   .container-one .box-one,
